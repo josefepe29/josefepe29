@@ -7,7 +7,7 @@
 
 <h2>📄 Certificados </h2>
 
-- [PROTalento](https://learn.ada-school.org/certifications/65a6b15271db14273c4c400b)
+- [ADA School](https://learn.ada-school.org/certifications/65a6b15271db14273c4c400b)
 
 <h2> 🤳 Conecta conmigo:</h2>
 
