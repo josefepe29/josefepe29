@@ -2,18 +2,12 @@
 
 <h2>👩🏽‍💻 Mis Proyectos.</h2>
 
-  - [Full Stack Web App: React, NodeJS, Azure, y componentes de Machine Learning ](https://github.com/naekmv/LabActiveDirectory) 
-  - [Active Directory Lab](https://github.com/naekmv/LabActiveDirectory) 
+  - [ToDo List ](https://github.com/josefepe29/my-react-task-list/tree/review-1) 
 
 
 <h2>📄 Certificados </h2>
 
-- [PROTalento](https://www.youtube.com/)
-
-<h2>📺 Videos Demo</h2>
-
-- [Creando un portafolio en Github](https://www.youtube.com/)
-
+- [PROTalento](https://learn.ada-school.org/certifications/65a6b15271db14273c4c400b)
 
 <h2> 🤳 Conecta conmigo:</h2>
 
